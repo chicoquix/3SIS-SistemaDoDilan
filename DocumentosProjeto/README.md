@@ -1,3 +1,3 @@
 # 3SIS-SistemaDoDilan
-## Use essa pasta para guardar documentos de especificação e gerenciamento de projeto:
+## Use essa pasta para guardar documentos de especificacao e gerenciamento de projeto:
 - Exemplo: .mpp, .doc .......
