@@ -1,2 +1,2 @@
 # 3SIS-SistemaDoDilan
-Project exemple of using git
+Project exemple of using git CMD with git hub
